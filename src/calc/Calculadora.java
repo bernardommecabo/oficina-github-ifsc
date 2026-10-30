@@ -2,7 +2,7 @@ package calc;
 
 public class Calculadora {
     public int somar(int numA,int numB){
-        return 0;
+        return numA + numB ;
     }
 
     public int subtrair(int numA, int numB){
@@ -16,4 +16,6 @@ public class Calculadora {
     public float dividir(int numA, int numB){
         return (float) numA / numB;
     }
+
+    
 }

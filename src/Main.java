@@ -15,5 +15,6 @@ public class Main {
         System.out.println("Resultado da subtracao " + resultadoSubtracao);
         System.out.println("Resultado da multiplicacao " + resultadosMult);
         System.out.println("Resultado da divisao " + resultadoDvisao);
+
     }
 }
