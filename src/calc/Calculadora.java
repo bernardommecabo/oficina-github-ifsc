@@ -14,6 +14,6 @@ public class Calculadora {
     }
 
     public float dividir(int numA, int numB){
-        return 0;
+        return (float) numA / numB;
     }
 }
